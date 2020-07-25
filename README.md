@@ -1,2 +1,2 @@
 # webSinglePage
-Portfolio of a single webpage, html. Styled using tailwindcss.
+Portfolio of a single page. Basic HTML and styled using tailwindcss.
